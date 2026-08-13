@@ -244,7 +244,7 @@ export default defineConfig({
 				[
 					rehypeContentLinks,
 					{
-						siteUrl: siteConfig.siteURL,
+						siteUrl: https://hoshinohb.de5.net/,
 						target: "_blank",
 						rel: ["nofollow", "noopener", "noreferrer"],
 					},
