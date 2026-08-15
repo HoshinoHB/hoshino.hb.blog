@@ -10,19 +10,19 @@ export const profileConfig: ProfileConfig = {
 		speed: 80, // 打字速度（毫秒）
 	},
 	links: [
-		{
-			name: "Bilibili",
-			icon: "fa7-brands:bilibili",
-			url: "https://b23.tv/is2z37Y",
-		},
-		{
-			name: "抖音",
-			icon: "fa7-brands:tiktok",
-			url: "https://v.douyin.com/hzJCUqzF6pE/",
-		},
-		{
-			name: "GitHub",
-			icon: "fa7-brands:github",
-			url: "https://github.com/HoshinoHB",
-		},
-	],
+  {
+    name: "Bilibili",
+    icon: "fa7-brands:bilibili",
+    url: "https://b23.tv/is2z37Y",
+  },
+  {
+    name: "抖音",
+    icon: "fa7-brands:tiktok",
+    url: "https://v.douyin.com/hzJCUqzF6pE/",
+  },
+  {
+    name: "GitHub",
+    icon: "fa7-brands:github",
+    url: "https://github.com/HoshinoHB"
+  }
+],
