@@ -1,6 +1,6 @@
 ---
 title: 项目的克隆与部署
-published: 2026-07-4
+published: 2026-07-04
 tags: [vue, vitepress]
 ---
 
