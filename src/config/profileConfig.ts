@@ -25,6 +25,4 @@ export const profileConfig: ProfileConfig = {
 			icon: "fa7-brands:github",
 			url: "https://github.com/HoshinoHB",
 		},
-		{
 	],
-};
