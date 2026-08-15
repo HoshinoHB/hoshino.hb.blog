@@ -15,7 +15,7 @@ export const LOCAL_PLAYLIST: Song[] = [
 		title: "Constant Moderato",
 		artist: "蔚蓝档案",
 		cover: cmCover,
-		url: "assets/music/url/constant_moderato.mp3/",
+		url: "assets/music/url/constant_moderato.mp3",
 		duration: 241,
 	},
 	{
@@ -23,7 +23,7 @@ export const LOCAL_PLAYLIST: Song[] = [
 		title: "unwelcome_school",
 		artist: "蔚蓝档案",
 		cover: usCover,
-		url: "assets/music/url/unwelcome_school.mp3/",
+		url: "assets/music/url/unwelcome_school.mp3",
 		duration: 253,
 	},
 	{
@@ -31,7 +31,7 @@ export const LOCAL_PLAYLIST: Song[] = [
 		title: "ready_go",
 		artist: "蔚蓝档案",
 		cover: ready_goCover,
-		url: "assets/music/url/ready_go.mp3/",
+		url: "assets/music/url/ready_go.mp3",
 		duration: 245,
 	},
 ];
