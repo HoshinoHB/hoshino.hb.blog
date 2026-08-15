@@ -1,55 +1,38 @@
 ---
 title: 项目的克隆与部署
-date: 9999-12-31
+published: 2026-07-4
 tags: [vue, vitepress]
 ---
 
 # 首先
 
-欢迎来到 **HB的博客**！这是一篇使用 [vitepress-theme-bluearchive](https://github.com/Alittfre/vitepress-theme-bluearchive) 主题的示例文章。
-此文章编于2026年7月4日
+欢迎来到 **HoshinoHB的博客**！这是一篇使用[Mizuki](https://github.com/matsuzaka-yuki/Mizuki) 主题的示例文章。
 
 ## 介绍
 
 我是一名来自江西的初中生，我是从2022年开始学习并接触编程。一个二次元忠持爱好者，一个喜欢《蔚蓝档案》、《碧蓝航线》、《终末地》、《异环》《三角洲行动》的视频创作者。
 
-## 克隆仓库
+## 我的故事
 
-在[我的仓库](https://github.com/HoshinoHB/hb.ba.blog)中选择克隆仓库，并创建您自己的仓库，名字什么都随便，比如“HuiMake.ba.io”，如果你想直接到GitHubPages部署的话就必须改为“HuiMake.github.io”
+我很早就因学习不好而把学习放弃，转头就开始学代码，因为当时我学的不好再加上我搞事赔了很多钱所以就一直再用手机学代码编程。
 
-[原作者的项目](https://github.com/Alittfre/vitepress-theme-bluearchive)里的Gitalk组件太老了，还有BUG，（主要我不太会写），所以我改成了Giscus评论组件，只需要配置你的Giscus就可以了，这个后面说
+后面，等我真正开始上网后，搞的事更大了
 
-## 部署Cloudflare
+## 初中的黑历史
 
-首先在[Cloudflare官网](https://www.cloudflare-cn.com/personal/)注册一个Cloudflare账号，然后在控制台中选择添加[Workers和Page](https://dash.cloudflare.com/04629489a62cdb48f65915c2e8c2aa31/workers-and-pages)选择**创建应用程序**，点击下方的**先要部署Pages？开始使用**，导入Git的仓库项目（没绑GitHub的去绑定GitHub账号就行），然后选择一个仓库项目部署，部署完了之后再把网址复制（https://你仓库项目名.pages.dev）一会用
+初一的时候，我把我的支付渠道改成了支付宝（家长的），然后就在PDD上帮同学买了两部手机，后来同学没藏好被发现了，最终找上玩了
 
-## 修改config.mts
+初二的时候，当时班上除了我们7人之外没有会用TG的（注：在国内使用Telegram等软件均属于违法行为，请勿传播违法信息与内容），然后我班有个神人，这里称为：小丁，小丁他把我们班大部分同学户都开了，然后还发网上，然后就被追责了，
+但这神人自己找的非说：“是XXX告诉我的，最终被证实恶意造谣，原因是其他人自爆了，但我没说他们也不知道我会用TG。
 
-在仓库的项目文件夹你的仓库项目.vitepress/config.mts中找到“生成站点地图”
-```
-  //   hostname: 'https://hb-ba-blog.pages.dev/'//改成你刚才在Cloudflare部署出的二级域名即可
-......
-  title: "Sensei HoshinoHB", //   可改
-  description: "Sensei HoshinoHB",//   可改
-```
-找到banner区配置
-```
-    name: "Sensei HoshinoHB",//   修改即可
-```
-social区配置也可修改（不然就直接导航我的主页去了），原作者配置了GitHub、B站、QQ、VX等icon，我已配置了抖音，自己去改就行
+还是初二，同月，我这人闲着没事把一位女同学家长的信息发给她了，然后就报警了，最终因未成年所以结果也只是批评教育一下，上网设备没收。
 
-## 配置评论功能
+## 成长环境
 
-先到GitHub的设置中配置Giscus，没安装的[安装一下](https://github.com/giscus)，配置过程我忘了，可以去问问AI或者B站上看看
-
-之后回到config.mts文件中，找到giscus配置
-```
-    giscusRepo: 'HoshinoHB/hb.ba.blog',//改成你Giscus配置里的
-    giscusRepoId: 'R_kgDOTMEI6A',
-    giscusCategory: 'Announcements',
-    giscusCategoryId: 'DIC_kwDOTMEI6M4CltSJ',//改成你自己创建的Giscus配置里的ID
-```
+一个一直生活在小县城里，寒暑假回农村老家生活，从小就喜欢搞事，从小学就被校园霸凌，不喜欢和别人说话，喜欢独自一人呆着，爱玩游戏，但总觉得活着没意思，曾一度自杀（没成功），现在慢慢开始放开心态了。
 
 ## 结语
 
-千里之行，始于Git。希望这篇文章能帮助你快速上手使用部署个人博客，开启愉快的写作之旅！
+我的目标是：成就自己！！
+
+希望我不会后悔我的决定
