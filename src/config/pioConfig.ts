@@ -11,12 +11,12 @@ export const pioConfig: PioConfig = {
 	hiddenOnMobile: true, // 默认在移动设备上隐藏
 	hideAboutMenu: false, // 隐藏内置 About 菜单按钮
 	dialog: {
-		welcome: "Welcome to Mizuki Website!", // 欢迎词
+		welcome: "ようこそお越しください、先生！", // 欢迎词
 		touch: [
-			"What are you doing?",
-			"Stop touching me!",
-			"HENTAI!",
-			"Don't bully me like that!",
+			"今日はどうだった？",
+			"先生、こんにちは！",
+			"ブルーアーカイブ、をプレイしたいな……",
+			"星野のことが好き？",
 		], // 触摸提示
 		home: "Click here to go back to homepage!", // 首页提示
 		skin: ["Want to see my new outfit?", "The new outfit looks great~"], // 换装提示
