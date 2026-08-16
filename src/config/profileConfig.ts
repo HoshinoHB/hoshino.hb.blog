@@ -1,3 +1,4 @@
+
 import type { ProfileConfig } from "../types/config";
 
 export const profileConfig: ProfileConfig = {
@@ -24,5 +25,4 @@ inks: [
       icon: "fa7-brands:github",
       url: "https://github.com/HoshinoHB",
     },
-],
-
+]
