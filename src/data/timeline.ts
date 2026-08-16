@@ -1,6 +1,6 @@
 import type { TimelineItem } from "@/types/data";
 
-export const timeline: TimelineItem[] = [
+export const timelineData: TimelineItem[] = [
   {
     date: "2023‑07-23",
     title: "加入抖音",
