@@ -162,7 +162,7 @@ export const siteConfig: SiteConfig = {
 
 		homeText: {
 			enable: true,
-			title: "HoshinoHB",
+			title: "沙勒欢迎您",
 			switchable: true,
 
 			subtitle: [
@@ -180,7 +180,7 @@ export const siteConfig: SiteConfig = {
 				"科技与您同行，会做与您相伴",
 				"以科技连接世界，以技术链接未来",
 				"0和1是世界的基础组成元素，掌握信息者掌握世界，掌控网络者掌控未来",
-	    	],
+	],
 			typewriter: {
 				enable: true, // 启用副标题打字机效果
 
