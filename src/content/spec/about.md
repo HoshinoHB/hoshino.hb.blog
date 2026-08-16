@@ -7,6 +7,7 @@
 一位技术向星野厨，游戏UP主，基本不发表评论
 
 ## 兴趣
+
 - 🎮 游戏：蔚蓝档案、三角洲行动、Minecraft
 
 - 💻 折腾：博客、域名、Termux、开源项目
@@ -14,9 +15,14 @@
 - ✍️ 喜好 产出技术与娱乐向视频
 
 ## 设备
+
 > 手机：OPPO A58
 
-## 联系我
+## 联系方式
+
 我的聚合账号：[vlink.cc](https://vlink.cc/HoshinoHB)
 
 邮箱：mchb9742@outlook.com
+
+::github{repo="HoshinoHB/hoshino.hb.blog"}
+
