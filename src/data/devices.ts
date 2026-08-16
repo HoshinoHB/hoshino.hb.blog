@@ -14,7 +14,7 @@ export type DeviceCategory = Record<string, Device[]> & {
 };
 
 export const devicesData: DeviceCategory = {
-	"OPPO A5"8: [
+	"OPPO A58": [
 		{
 			name: "OPPO A58",
 			specs: "black / 8+256",
