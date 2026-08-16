@@ -1,4 +1,3 @@
-
 import type { ProfileConfig } from "../types/config";
 
 export const profileConfig: ProfileConfig = {
@@ -9,20 +8,21 @@ export const profileConfig: ProfileConfig = {
     enable: true,
     speed: 80
   },
-inks: [
+  links: [
     {
       name: "Bilibili",
       icon: "fa7-brands:bilibili",
-      url: "https://b23.tv/is2z37Y",
+      url: "https://b23.tv/is2z37Y"
     },
     {
       name: "抖音",
       icon: "fa7-brands:tiktok",
-      url: "https://v.douyin.com/hzJCUqzF6pE/",
+      url: "https://v.douyin.com/hzJCUqzF6pE/"
     },
     {
       name: "GitHub",
       icon: "fa7-brands:github",
-      url: "https://github.com/HoshinoHB",
-    },
-]
+      url: "https://github.com/HoshinoHB"
+    }
+  ]
+};
