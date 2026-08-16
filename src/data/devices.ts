@@ -14,7 +14,7 @@ export type DeviceCategory = Record<string, Device[]> & {
 };
 
 export const devicesData: DeviceCategory = {
-	OPPO A58: [
+	"OPPO A5"8: [
 		{
 			name: "OPPO A58",
 			image: "/images/device/oppoa58.webp",
@@ -23,7 +23,7 @@ export const devicesData: DeviceCategory = {
 			link: "https://www.oppo.com/cn/smartphones/series-a/a58/specs/",
 		},
 	],
-	Watch: [
+	"Watch": [
 		{
 			name: "SPRD",
 			image: "/images/device/mt3000.webp",
