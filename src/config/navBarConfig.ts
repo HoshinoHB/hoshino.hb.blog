@@ -1,3 +1,5 @@
+import type { NavBarConfig } from "../types/config";
+import { LinkPreset } from "../types/config";
 export const navBarConfig: NavBarConfig = {
 	links: [
 		// 预设链接：首页
@@ -26,13 +28,13 @@ export const navBarConfig: NavBarConfig = {
 				{
                                         name: "抖音"
                                         url: "https://v.douyin.com/hzJCUqzF6pE/",
-                                        externsl: "true",
+                                        external: true,
                                         icon: ""prime:tiktok,
 				},
                                 {       
                                         name: "CSDN",
                                         url: "https://blog.csdn.net/2606_96763730",
-                                        externsl: "true",
+                                        external: true,
                                         icon: "simple-icons:csdn",
                                 },
 			],
