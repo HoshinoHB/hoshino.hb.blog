@@ -26,7 +26,7 @@ export const navBarConfig: NavBarConfig = {
 					name: "抖音",
 					url: "https://v.douyin.com/hzJCUqzF6pE/",
 					external: true,
-					icon: "prime:tiktok",
+					icon: "fa7-brands:tiktok",
 				},
 				{
 					name: "CSDN",
