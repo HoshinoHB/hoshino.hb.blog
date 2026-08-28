@@ -16,7 +16,7 @@ export const timelineData: TimelineItem[] = [
 			"拿下学校官网",
 			"抖音 B 站账号成功做起",
 		],
-		icon: "fa-solid:book-reader",
+		icon: "fa7-solid:book-reader",
 		color: "#09B300",
 		featured: true,
 	},
