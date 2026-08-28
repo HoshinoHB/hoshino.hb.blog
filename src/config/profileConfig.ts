@@ -32,7 +32,7 @@ export const profileConfig: ProfileConfig = {
 		},
 		{
 		        name: "聚合链",
-                        icon: "tabler:social",
+                        icon: "material-symbols:hub",
                         url: "https://vlink.cc/HoshinoHB"
 		},
 	],
