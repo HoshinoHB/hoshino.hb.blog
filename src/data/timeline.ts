@@ -1,5 +1,4 @@
 import type { TimelineItem } from "../components/features/timeline/types";
-
 export const timelineData: TimelineItem[] = [
 	{
 		id: "Right-nowCurrent-status",
@@ -57,7 +56,7 @@ export const timelineData: TimelineItem[] = [
 			"100粉",
 			"1000粉",
 		],
-		icon: "stash:play-btn",
+		icon: "material-symbols:play-arrow",
 		color: "#FF4DAF",
 		featured: true,
 	},
@@ -82,7 +81,7 @@ export const timelineData: TimelineItem[] = [
 				type: "UP",
 			},
 		],
-		icon: "mingcute:bilibili-line",
+		icon: "fa7-brands:bilibili",
 		color: "#FF84C8",
 	},
 	{
@@ -97,7 +96,7 @@ export const timelineData: TimelineItem[] = [
 		achievements: [
 			"还在做",
 		],
-		icon: "iconoir:tiktok",
+		icon: "fa7-brands:tiktok",
 		color: "#000000",
 	},
 	{
