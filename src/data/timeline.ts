@@ -9,12 +9,12 @@ export const timelineData: TimelineItem[] = [
 		type: "education",
 		startDate: "2014-03-02",
 		location: "江西",
-		position: "学生"
+		position: "学生",
 		skills: ["游戏", "定点睡觉", "GitHub", "视频创作者"],
 		achievements: [
-                              "搭建个人博客网站",
-                              "拿下学校官网",
-                              "抖音 B 站账号成功做起"
+			"搭建个人博客网站",
+			"拿下学校官网",
+			"抖音 B 站账号成功做起",
 		],
 		icon: "fa-solid:book-reader",
 		color: "#09B300",
@@ -25,12 +25,12 @@ export const timelineData: TimelineItem[] = [
 		title: "建站",
 		description:
 			"用手机套 Mizuki 的壳搭建个人博客网站",
-		type "project"
+		type: "project",
 		startDate: "2026-07-14",
-                location: "江西"
+		location: "江西",
 		skills: ["Astro", "Mizuki", "Blog"],
 		achievements: [
-                       "Mizuki 博客用手机运行成功"
+			"Mizuki 博客用手机运行成功",
 		],
 		links: [
 			{
@@ -54,8 +54,8 @@ export const timelineData: TimelineItem[] = [
 		organization: "BiliBili、抖音",
 		position: "UP主、主播",
 		achievements: [
-                       "100粉",
-                       "1000粉",
+			"100粉",
+			"1000粉",
 		],
 		icon: "stash:play-btn",
 		color: "#FF4DAF",
@@ -92,10 +92,11 @@ export const timelineData: TimelineItem[] = [
 			"因为闲着没事，心血来潮就这样来抖音做了几年短视频创作者",
 		type: "work",
 		startDate: "2023-03-26",
-                locatin: "北京字节跳动科技有限公司",
+		location: "北京字节跳动科技有限公司",
 		skills: ["主播"],
 		achievements: [
 			"还在做",
+		],
 		icon: "iconoir:tiktok",
 		color: "#000000",
 	},
@@ -110,11 +111,10 @@ export const timelineData: TimelineItem[] = [
 		skills: ["主播"],
 		achievements: [
 			"专注手机端开发",
-                        "基本几千字的硬核博文",
+			"基本几千字的硬核博文",
 		],
 		icon: "simple-icons:csdn",
 		color: "#F66F00",
 	},
 ];
-
 
