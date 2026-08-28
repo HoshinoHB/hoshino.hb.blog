@@ -1,3 +1,14 @@
+---
+title: 修 BUG 到想死的一天
+published: 2026-08-28
+description: 为了迁移新项目，把老项目一整个整改了导致的连锁 BUG
+tags: ["HoshinoHB", "Termux", "AI", "日常", "随笔"]
+category: 日常
+draft: false
+pinned: false
+lang: zh-CN
+---
+
 # 😭 为什么？？
 ## 起因
 - 今天是2026/08/28-10/18PM。
