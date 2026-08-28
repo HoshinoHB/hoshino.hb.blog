@@ -4,22 +4,13 @@
 
 一个现代化、功能丰富的静态博客模板，基于 [Astro](https://astro.build) 构建，具有先进的功能和精美的设计。
 
-> [!WARNING]
-> ### ⚠️ 项目停止更新与迁移通知
-> **本项目（Mizuki）即将停止更新与维护。**  
-> 全新全面重构版本 **[Shirone](https://github.com/lyraVoid/shirone)** 现已发布，功能与本项目基本一致，并在架构与体验上进行了全面重构与优化。建议前往新项目获取最新支持与更新：  
-> 🔗 **新项目仓库：[https://github.com/lyraVoid/shirone](https://github.com/lyraVoid/shirone)**
-
 [![Node.js >= 20](https://img.shields.io/badge/node.js-%3E%3D20-brightgreen)](https://nodejs.org/)
 [![pnpm >= 11](https://img.shields.io/badge/pnpm-%3E%3D11-blue)](https://pnpm.io/)
 [![Astro](https://img.shields.io/badge/Astro-7.1.3-orange)](https://astro.build/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-6.0.3-blue)](https://www.typescriptlang.org/)
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg?logo=apache)](https://opensource.org/licenses/Apache-2.0)
 
-[**🖥️ 在线演示**](https://mizuki.mysqil.com/) | [**📝 用户文档**](https://docs.mizuki.mysqil.com/)
-
-🌏 **README 语言:**
-[**中文**](./README.md) / [**English**](./README.en.md) / [**日本語**](./README.ja.md) / [**繁體中文**](./README.tw.md) /
+[**🖥️ 在线网站**](https://hoshinohb.de5.net/) | [**📝 用户文档**](https://docs.mizuki.mysqil.com/)
 
 通过我们的综合文档快速开始。无论是自定义主题、配置功能，还是部署到生产环境，文档涵盖了您成功启动博客所需的所有内容。
 

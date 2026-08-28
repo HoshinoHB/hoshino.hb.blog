@@ -1,19 +1,19 @@
 import type { SiteConfig } from "../types/config";
 
 // 定义站点语言
-const SITE_LANG = "en"; // 语言代码，例如：'en', 'zh_CN', 'ja' 等。
+const SITE_LANG = "zh_CN"; // 语言代码，例如：'en', 'zh_CN', 'ja' 等。
 
 export const siteConfig: SiteConfig = {
-	title: "Mizuki",
-	subtitle: "One demo website",
-	siteURL: "https://mizuki.mysqil.com/", // 请替换为你的站点URL，以斜杠结尾
-	siteStartDate: "2025-01-01", // 站点开始运行日期，用于站点统计组件计算运行天数
+	title: "HoshinoHB",
+	subtitle: "我的个人博客",
+	siteURL: "https://hoshinohb.de5.net/", // 请替换为你的站点URL，以斜杠结尾
+	siteStartDate: "2026-07-14", // 站点开始运行日期，用于站点统计组件计算运行天数
 	timeZone: "Asia/Shanghai", // 文章日期使用的 IANA 时区，可改为 Asia/Tokyo、Europe/Berlin 等
 
 	lang: SITE_LANG,
 
 	themeColor: {
-		hue: 240, // 主题色的默认色相，范围从 0 到 360。例如：红色：0，青色：200，蓝绿色：250，粉色：345
+		hue: 345, // 主题色的默认色相，范围从 0 到 360。例如：红色：0，青色：200，蓝绿色：250，粉色：345
 		fixed: false, // 对访问者隐藏主题色选择器
 	},
 
@@ -35,7 +35,7 @@ export const siteConfig: SiteConfig = {
 		// 显示模式："text-icon" 显示图标+文本，"logo" 仅显示Logo
 		mode: "text-icon",
 		// 顶栏标题文本
-		text: "MizukiUI",
+		text: "HMU OS",
 		// 顶栏标题图标路径，默认使用 public/assets/home/home.webp
 		icon: "assets/home/home.webp",
 		// 网站Logo图片路径
@@ -162,15 +162,24 @@ export const siteConfig: SiteConfig = {
 
 		homeText: {
 			enable: true,
-			title: "わたしの部屋",
+			title: "HoshinoHB",
 			switchable: true,
 
 			subtitle: [
-				"特別なことはないけど、君がいると十分です",
-				"今でもあなたは私の光",
-				"君ってさ、知らないうちに私の毎日になってたよ",
-				"君と話すと、なんか毎日がちょっと楽しくなるんだ",
-				"今日はなんでもない日。でも、ちょっとだけいい日",
+				"身份认证已通过，沙勒欢迎你",
+                                "和你的日常，就是奇迹！",
+                                "奇迹既是终点，也是起点！",
+                                "平凡的日常，也闪耀着光芒！",
+                                "与学生们，谱写属于我们的故事！",
+                                "与你的日常，便是奇迹！",
+                                "一切奇迹的起点！",
+                                "Hello！Kivotos！！",
+                                "あなたの日常こそが、奇跡なのです！",
+                                "奇跡は出発点であり、同時に終点でもある",
+                                "欢迎登录，老师！",
+                                "科技与您同行，会做与您相伴！",
+                                "以科技连接世界，以技术链接未来",
+                                "0和1是世界的基础组成元素，掌握信息者掌握世界，掌控网络者掌控未来",
 			],
 			typewriter: {
 				enable: true, // 启用副标题打字机效果
@@ -239,3 +248,6 @@ export const siteConfig: SiteConfig = {
 };
 
 export { SITE_LANG };
+
+
+
