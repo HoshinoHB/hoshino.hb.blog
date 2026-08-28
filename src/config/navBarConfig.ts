@@ -26,13 +26,13 @@ export const navBarConfig: NavBarConfig = {
 				{
                                         name: "抖音"
                                         url: "https://v.douyin.com/hzJCUqzF6pE/",
-                                        externsl: "true",
+                                        external: "true",
                                         icon: ""prime:tiktok,
 				},
                                 {       
                                         name: "CSDN",
                                         url: "https://blog.csdn.net/2606_96763730",
-                                        externsl: "true",
+                                        external: "true",
                                         icon: "simple-icons:csdn",
                                 },
 			],
