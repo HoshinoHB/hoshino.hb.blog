@@ -1,6 +1,6 @@
 ---
 title: 一把游戏打散一段感情
-published: 2026-08-29T03:10:00UTC08:00
+published: 2026-08-28
 description: 因为一点哈夫币引起的矛盾
 tags: ["HoshinoHB", "日常", "随笔", "故事", "三角洲行动", "游戏"]
 category: 随笔
