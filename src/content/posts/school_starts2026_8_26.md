@@ -17,7 +17,7 @@ lang: zh-CN
 
 - 作业还没写完啊ಥ_ಥ！！
 
-##  😊 欣喜
+## 😊 欣喜
 - 从 7/13 我建站开始
 
 - 已经 14 天过去了，而依旧稳定运行٩(๑^o^๑)۶
@@ -64,10 +64,7 @@ lang: zh-CN
 
 - 555😭😭😭！我不活啦！！
 
-> 作者：HoshinoHB
-写作时间：2026-8-26 07-39PM
-简介：一个游离二次元的星野厨
-© HuiMake Group 2026｜HuiMake Network Technology lnc
+> 作者：HoshinoHB｜写作时间：2026-8-26 07-39PM
 
 
 

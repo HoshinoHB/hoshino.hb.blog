@@ -34,10 +34,7 @@ lang: zh-CN
 | [DigitalPlat Domains](https://domain.digitalplat.org/) | 1. 免费子域名注册服务。2. DNS 管理系统。3. 开源域名平台支持。 | 1. 可能会因违规或长期不使用被回收。2. 新用户就一条域。3. 部分 CF 不支持托管。 |
 | [DNSHE](https://my.dnshe.com/) | 1. 无需信用卡绑定。2. 无隐藏费用。3. 支持全类型 DNS 记录解析。4. 即时上线各类数字项目。5. 初始 3 额度 | 1. 不稳定，网络会波动。2. 域名少。  |
 
-> 我挺爱用 DNSHE 的，因为习惯了，而且 DNSHE 给的也很大方，邀人和做任务就能拿。
-
-![DNSHE邀请码界面](/assets/post-images/yepdomain_name1.jpg)
-
+> 我挺爱用 DNSHE 的，因为习惯了，而且 DNSHE 给的也很大方，邀人和做任务就能拿。我的邀请码：VL3C658593
 
 - 现在选择一个合适自己的服务即可。
 
@@ -77,25 +74,18 @@ lang: zh-CN
 - 1. 在 [Cloudflare](https://www.cloudflare-cn.com/personal/) 注册一个 CF 免费账户，Outlook、Gmail都可以。
 
 - 2. 在仪表盘旁边找到 **计算**，然后找到**Workers 和 Pages**，如图：
-![CF计算选项](/assets/post-images/yepdomain_name2.jpg)
 
 - 3. 点击 **创建应用程序**
-![CF创建应用程序](/assets/post-images/yepdomain_name3.jpg)
 
 - 4. 选择 **继续使用 GitHub** 并登录你的 GitHub 账号
-![CF继续GitHub登录](/assets/post-images/yepdomain_name4.jpg)
 
 -  5. 选择你需要部署的仓库
-![CF选仓库](/assets/post-images/yepdomain_name5.jpg)
 
 -  6. 等待 **构建指令** 成功执行，然后点击部署
-![Cf构建](/assets/post-images/yepdomain_name6.jpg)
 
 - 7. 在 **Workers 和 Pages** 找到你的仓库，点击旁边`···`，选择 **查看部署**
-![CF查看部署](/assets/post-images/yepdomain_name7.jpg)
 
-- 8. 如下图，第一次部署成功会是`绿√`，红X代表部署失败，详细请自行问询 AI
-![CF部署成功](/assets/post-images/yepdomain_name8.jpg)
+- 8. 第一次部署成功会是`绿√`，红X代表部署失败，详细请自行问询 AI
 
 - 9. [自定义域名](https://hoshinohb.de5.net/posts/websitewebsite_setupbuilding_tutorial/)请看我的博客文章，这里不再赘述。
 
@@ -111,6 +101,7 @@ lang: zh-CN
 
 - 纯手机写，电脑用不习惯，但我手机恢复出厂了，啊w(ﾟДﾟ)w，我的数据啊！｡°(°¯᷄◠¯᷅°)°｡我的Telegram啊ಥ_ಥ。
 
+> 作者：HoshinoHB｜写作时间：2026-08-26
 
 
 

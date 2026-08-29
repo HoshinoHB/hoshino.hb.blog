@@ -9,10 +9,9 @@ pinned: true
 lang: zh‑CN
 ---
 
-
 # 说明
 
-欢迎来到 **HoshinoHB的博客网站**！这是一篇使用 [Mizuki](https://github.com/matsuzaka-yuki/Mizuki/) 主题创建的网站。
+欢迎来到`HoshinoHB的博客网站！！！`这是一篇使用 [Mizuki](https://github.com/matsuzaka-yuki/Mizuki/) 主题创建的网站。
 
 ## 介绍
 
@@ -34,7 +33,9 @@ lang: zh‑CN
 
 在抖音做了一段时间之后，某天晚上，我突然梦见自己成了百万粉UP主，然后我开始做B站账号了
 
-## 我想说的
+***
+
+# 我想说的
 
 我的成绩并不好，几科加起来不到200，所以我才想开始做自媒体账号都，但这一路都太艰难了，国内抖B书3平台流量加起来还没有TikTok的一半，粉丝也是少，再加上YouTube莫名其妙就被封了，所以我也只能做点Ai视频和简单没任何观点的视频了
 
@@ -43,3 +44,5 @@ lang: zh‑CN
 希望这篇文章可以让你了解到我，也希望我能考上高中！
 
 加油吧！还有希望的！
+
+> 作者：HoshinoHB 写作时间：2026-07-26

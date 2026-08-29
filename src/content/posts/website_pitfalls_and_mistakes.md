@@ -2,7 +2,7 @@
 title: 手机端 Mizuki 博客的自定义教程
 published: 2026-08-23
 description: 不用电脑！手机 Termux 手把手搭 Mizuki 个人博客
-tags: ["教程", "Mizuki", "Astro", "手机", "HoshinoHB"]
+tags: ["教程", "Mizuki", "Astro", "手机", "HoshinoHB", "Termux"]
 category: 教程
 draft: false
 pinned: false
@@ -16,6 +16,7 @@ lang: zh-CN
 - 本文将介绍 Mizuki 主题手机端的使用方法和最佳实践，帮助你快速修改美观、功能丰富的静态博客。
 
 ***
+
 # ⚙️ 部署 Mizuki 
 
 - 先去 GitHub 里把 Mizuki 给 clone 下来 [Mizuki](https://github.com/matsuzaka-yuki/Mizuki) 的仓库，具体部署流程可以看看[我的文章](https://blog.csdn.net/2606_96763730/article/details/163999698)，这里就不细说了。
@@ -121,7 +122,8 @@ icon: "fa7-brands:github",
 },               
 {               
 name: "Bilibili",               
-url: "https://space.bilibili.com/701864046",               external: true,               
+url: "https://space.bilibili.com/701864046",               
+external: true,               
 icon: "fa7-brands:bilibili",                
 },                
 {                
@@ -205,7 +207,7 @@ export const siteConfig: SiteConfig = {
  ],
  ```
  
- ### 🪧站点公告配置
+### 🪧站点公告配置
 1. 输入`nano announcementConfig.ts`打开公告配置文件：
 
 ```bash
@@ -229,7 +231,7 @@ cd ~/你的仓库/src/assets/images/
 
 # 剪切你的头像图片，记得转换成webp格式，文件名称最好为 assets ，不改就要给配置文件了
 
-cp -f assets.webp /你的仓库/src/assets/images/assets.webp
+cp  /你的图片存放路径/assets.webp ./
 ```
 
 ### 🏜️ 站点背景图替换
@@ -248,9 +250,13 @@ cp -f assets.webp /你的仓库/src/assets/images/assets.webp
 
 cp  *.webp src/assets/public/assets/desktop-banner
 
-# 手机端的cp *.webp src/assets/public/assets/moboile-banner
+# 电脑端可以直接拖文件
+
+# 手机端的
+cp /你的图片存放路径/ ./ 
 
 # ”~”代表完整目录，到时候自己替换成你的仓库名称```
+```
 
 ### 🌌 站点图标
 
@@ -268,9 +274,17 @@ cd ~/你的仓库/public/assets/home/
 
 # 替换站点图标icon
 
-cp -f ~/下载目录/home.webp home.webp # 站点icon图标，用户、Google、Bing可见的
+cp ~/图片存放路径/home.webp ./ # 站点icon图标，用户、Google、Bing可见的
 
-cp -f ~/下载目录/default-logo.webp default-logo.webp # 站点 Logo 图标，搜索引擎和爬虫看的
+cp ~/图片存放路径/default-logo.webp ./ # 站点 Logo 图标，搜索引擎和爬虫看的
+
+# 手机端记得用`ls`看一下，如果有两份文件，就用`rm`删除然后重命名
+
+ls
+
+rm -rf 目标文件
+
+mv 目标文件 重命名
 ```
 
 ### 🎵 站点音乐
@@ -333,7 +347,7 @@ id: "current-study",
                 
 title: "Studying Computer Science and Technology",
                 
-description:                        "Currently studying Computer Science and Technology, focusing on web development and software engineering.",
+description: "Currently studying Computer Science and Technology, focusing on web development and software engineering.",
                 
 type: "education",                
 
@@ -389,6 +403,8 @@ achievements: [
 # 其它我懒的写，所以这里就没了，原先让 AI 教我写，AI给我个就 ID、时间、介绍 ，现在我写的是完整版，可以直接复制粘贴参考修改
 ```
 
+***
+
 # 📍 结束语
 
 - 这章的`Mizuki`配置修改就到这里结束了，感谢您的阅读
@@ -396,3 +412,5 @@ achievements: [
 - 请务必继续关注我，还有什么疑问欢迎留言交流。
 
 - 我们下篇文章再见🎉🎉🎉
+> 作者：HoshinoHB｜写作时间：2026-08-23
+

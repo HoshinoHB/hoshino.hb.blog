@@ -1,8 +1,8 @@
 ---
 title: 零基础搭建个人博客，手机电脑都可以
-published: 2026-08-23
+published: 2026-08-22
 description: 零基础教程，使用Cloudflare Pages，支持手机Termux与电脑，完整搭建Mizuki个人博客，包含域名、SSH密钥全套实操
-tags: ["教程", "Mizuki", "Cloudflare", "DNS", "Astor", "域名", "GitHub", "手机", "HoshinoHB"]
+tags: ["教程", "Mizuki", "Cloudflare", "DNS", "Astor", "域名", "GitHub", "手机", "HoshinoHB", "Termux"]
 category: 教程
 draft: false
 pinned: false
@@ -14,8 +14,6 @@ lang: zh-CN
 - 网站可以展示你的职业优势、爱好以及创作内容，吸引更多关注。
 - 网站就像是互联网上的个人名片，向世界展示你的专业能力与兴趣。
 - 你拥有完全的控制权，可以自主决定网站内容、布局和用户体验。
-
-***
 
 ## 如何搭建？
 个人建站大部分都是用的 **Cloudflare** 的 **Cloudflare Pages** 来实现静态站点托管的，跟着以下教程能大大降低你建站的难度和成本。
@@ -181,6 +179,7 @@ cp ~/storage/shared/XXX ./
 
 
 ***
+
 ## 成功推送
 - 当终端出现`* [new branch]      main -> main
 branch 'main' set up to track 'origin/main'.
@@ -188,6 +187,7 @@ branch 'main' set up to track 'origin/main'.
 
 
 ***
+
 ### 接下来该做的事
 1. 打开你的GitHub仓库页面，进入 Actions，看工作流是否启动，等待构建结果。
  
@@ -224,11 +224,13 @@ git push
 
 
 ***
+
 ## Cloudflare配置部署与验证测试
 GitHub Pages的部署页显示这个`Mizuki`的页面就说明部署成功了，现在开始配置Cloudflare Pages
 
 
 ***
+
 ### Cloudflare 配置与域名注册
 - 先到DNSHE 里去选择一个你喜欢的域名，注册了之后
 
@@ -238,8 +240,7 @@ GitHub Pages的部署页显示这个`Mizuki`的页面就说明部署成功了，
 
 - 选择个专属根域名
 
-> 如果想被搜索引擎收录.`.com`
-和`.net是个不错的选择`
+> 如果想被搜索引擎收录.`.com`和`.net是个不错的选择`
 
 ### 基础 DNS 解析配置
 这是最核心的基础操作，用于将域名指向你的服务器、虚拟主机或内网设备。
@@ -250,12 +251,12 @@ GitHub Pages的部署页显示这个`Mizuki`的页面就说明部署成功了，
 ​
 3. 点击右上角 Add record 添加解析，常用记录类型如下：
 
-| 记录类型	| 核心用途	| 填写示例 |
+| 记录类型 | 核心用途 | 填写示例 |
 | --- | --- | --- |
-| A | 记录	| 绑定 IPv4 公网地址	| 名称填`@`（代表主域名）内容填服务器IPv4，TTL保持默认 |
-|  AAAA 记录	| 绑定 IPv6 公网地址	| 名称`www`，内容填公网IPv6，即可用`www.xxx.xxx.xxx`访问 |
-| CNAME 记录	| 跳转至其他域名 | 名称填blog（什么都可以），内容填`github.io`，可对接GitHub Pages等服务 |
-| TXT 记录	| 域名所有权验证、邮箱配置	| 名称留空，内容粘贴服务商提供的验证字符串 |
+| A 记录 | 绑定 IPv4 公网地址 | 名称填`@`（代表主域名）内容填服务器IPv4，TTL保持默认 |
+| AAAA 记录 | 绑定 IPv6 公网地址 | 名称`www`，内容填公网IPv6，即可用`www.xxx.xxx.xxx`访问 |
+| CNAME 记录 | 跳转至其他域名 | 名称填blog（什么都可以），内容填`github.io`，可对接GitHub Pages等服务 |
+| TXT 记录 | 域名所有权验证、邮箱配置 | 名称留空，内容粘贴服务商提供的验证字符串 |
 
 > 解析生效时间：全球同步通常5~30分钟，本地网络缓存最长可能需要1小时。
 
@@ -279,6 +280,7 @@ GitHub Pages的部署页显示这个`Mizuki`的页面就说明部署成功了，
 
 
 ***
+
 ### 添加域名
 1. 注册好域名后，点击 Add Site 输入你的域名
 ​
@@ -308,6 +310,7 @@ GitHub Pages的部署页显示这个`Mizuki`的页面就说明部署成功了，
 ## 结束语
 最后祝你好运，成功搭建自己的个人博客站点
 
+> 作者：HoshinoHB｜写作时间：2026-08-22
 
 
 
