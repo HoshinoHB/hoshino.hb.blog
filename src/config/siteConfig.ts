@@ -6,6 +6,7 @@ const SITE_LANG = "zh_CN"; // 语言代码，例如：'en', 'zh_CN', 'ja' 等。
 export const siteConfig: SiteConfig = {
 	title: "HoshinoHB",
 	subtitle: "我的个人博客",
+        description: "HoshinoHB的个人博客，记录技术折腾、生活随笔与游戏日常",
 	siteURL: "https://hoshinohb.de5.net/", // 请替换为你的站点URL，以斜杠结尾
 	siteStartDate: "2026-07-14", // 站点开始运行日期，用于站点统计组件计算运行天数
 	timeZone: "Asia/Shanghai", // 文章日期使用的 IANA 时区，可改为 Asia/Tokyo、Europe/Berlin 等
