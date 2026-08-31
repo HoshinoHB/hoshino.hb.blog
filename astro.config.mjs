@@ -11,7 +11,7 @@ import expressiveCode from "astro-expressive-code";
 import icon from "astro-icon";
 import { pluginLanguageLogo } from "ec-lang-logo";
 import "katex/dist/contrib/mhchem.mjs";
-import { oddmisc } from "oddmisc";
+import { umami } from "oddmisc";
 import rehypeAutolinkHeadings from "rehype-autolink-headings";
 import rehypeCodeGroup from "rehype-code-group";
 import rehypeComponents from "rehype-components";
@@ -115,11 +115,11 @@ export default defineConfig({
 	server: {
 		port: 3000,
 	},
-
-	integrations: [
-		oddmisc({
-			umami: {
-				shareUrl: false,
+                 integrations: [
+                 umami({
+                  shareUrl: false
+    }
+),
 			},
 		}),
 		swup({
