@@ -118,10 +118,7 @@ export default defineConfig({
                  integrations: [
                  umami({
                   shareUrl: false
-    }
-),
-			},
-		}),
+                 }),
 		swup({
 			theme: false,
 			animationClass: "transition-swup-",
