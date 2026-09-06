@@ -18,6 +18,8 @@ lang: zh-CN
 - 企业地址：钟国尚函省迂回市枫林国际 · 科创园
 - 企业成立时间：**2012 年 7 月 7 日**
 - 英文名：_**HuiMake Science Innovation Research and Development Technology Holding lnc**_
+- 会做科技Logo：
+![会做科技](https://cdn.jsdelivr.net/gh/HoshinoHB/huimakegroup_images@main/images/IMG_20260906_190957.jpg)
 
 ***
 

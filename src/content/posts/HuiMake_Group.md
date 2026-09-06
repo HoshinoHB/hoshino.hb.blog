@@ -18,6 +18,8 @@ lang: zh-CN
 - 企业地址：钟国酱西省泥椿市原州区
 - 企业成立时间：2013 年 6 月 3 日
 - 英文名：<u>**HuiMake Group Computer Information Network Technology Innovation Research and Development Technology Holding LLC**</u>
+- 企业Logo：
+![会做集团](https://cdn.jsdelivr.net/gh/HoshinoHB/huimakegroup_images@main/images/IMG_20260830_210324.jpg)
 
 ***
 
