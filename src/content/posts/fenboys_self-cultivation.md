@@ -1,5 +1,5 @@
 ---
-title: 如何成为一只香香软软的小男娘？
+title: 小男娘的自我修养
 published: 2026-09-10
 description: 描述
 tags: ["HoshinoHB", "日常"]
