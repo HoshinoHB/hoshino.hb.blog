@@ -26,14 +26,19 @@ export const navBarConfig: NavBarConfig = {
 					name: "抖音",
 					url: "https://v.douyin.com/hzJCUqzF6pE/",
 					external: true,
-					icon: "fa7-brands:tiktok",
+					icon: "icon: "simple-icons:douyin",
 				},
 				{
 					name: "CSDN",
 					url: "https://blog.csdn.net/2606_96763730",
 					external: true,
 					icon: "simple-icons:csdn",
-				},
+                                {
+                                        name: "粉丝墙"
+                                        url: "https://hoshinohb.cc.cd/",
+                                        external: true,
+                                        icon: "material-symbols:group",
+                                },
 			],
 		},
 		{

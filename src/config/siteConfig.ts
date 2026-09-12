@@ -5,8 +5,8 @@ const SITE_LANG = "zh_CN"; // 语言代码，例如：'en', 'zh_CN', 'ja' 等。
 
 export const siteConfig: SiteConfig = {
 	title: "HoshinoHB",
-	subtitle: "我的个人博客",
-        description: "HoshinoHB的个人博客，记录技术折腾、生活随笔与游戏日常",
+	subtitle: "我的终端网站",
+        description: "HoshinoHB 的个人博客，记录技术折腾、生活随笔与游戏日常",
 	siteURL: "https://hoshinohb.de5.net/", // 请替换为你的站点URL，以斜杠结尾
 	siteStartDate: "2026-07-14", // 站点开始运行日期，用于站点统计组件计算运行天数
 	timeZone: "Asia/Shanghai", // 文章日期使用的 IANA 时区，可改为 Asia/Tokyo、Europe/Berlin 等
@@ -36,7 +36,7 @@ export const siteConfig: SiteConfig = {
 		// 显示模式："text-icon" 显示图标+文本，"logo" 仅显示Logo
 		mode: "text-icon",
 		// 顶栏标题文本
-		text: "HMU OS",
+		text: "HUI",
 		// 顶栏标题图标路径，默认使用 public/assets/home/home.webp
 		icon: "assets/home/home.webp",
 		// 网站Logo图片路径
@@ -163,7 +163,7 @@ export const siteConfig: SiteConfig = {
 
 		homeText: {
 			enable: true,
-			title: "HoshinoHB",
+			title: "HoshinoHB的小窝",
 			switchable: true,
 
 			subtitle: [
@@ -181,6 +181,10 @@ export const siteConfig: SiteConfig = {
                                 "科技与您同行，会做与您相伴！",
                                 "以科技连接世界，以技术链接未来",
                                 "0和1是世界的基础组成元素，掌握信息者掌握世界，掌控网络者掌控未来",
+                                "以科技连接世界，以技术链接未来",
+                                "会做集团计算机信息网络科技创新技术有限责任公司",
+                                "以技术链接科技，以网络链接全球",
+                                "信息会做，重塑你我"
 			],
 			typewriter: {
 				enable: true, // 启用副标题打字机效果
