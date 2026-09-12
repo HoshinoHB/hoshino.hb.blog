@@ -18,6 +18,8 @@ lang: zh-CN
 - 企业地址：钟国尚函省徐汇区宜山路700号枫林国际 · 创业园
 - 企业成立时间：**2010 年 6 月 3 日**
 - 英文名：_**HuiMake Network Computer Technology Information Technology Holding lnc**_
+- 会做网络Logo：
+![会做网络](https://cdn.jsdelivr.net/gh/HoshinoHB/huimakegroup_images@main/images/IMG_20260912_163802.jpg)
 
 ***
 
