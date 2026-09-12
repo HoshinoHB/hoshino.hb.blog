@@ -1,7 +1,7 @@
 ---
 title: 小男娘的自我修养
 published: 2026-09-10
-description: 描述
+description: 小男娘如何打扮自己？？
 tags: ["HoshinoHB", "日常"]
 category: 日常
 draft: false
