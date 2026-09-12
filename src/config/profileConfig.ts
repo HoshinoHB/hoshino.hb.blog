@@ -17,8 +17,8 @@ export const profileConfig: ProfileConfig = {
 		},
 		{
                         name: "抖音",
-                        icon: "simple-icons:douyin",
-                        url: "https://v.douyin.com/hzJCUqzF6pE/"
+                        icon: "fa7-brands:tiktok",
+                        url: "https://v.douyin.com/hzJCUqzF6pE/",
 		},
 		{
 			name: "GitHub",
