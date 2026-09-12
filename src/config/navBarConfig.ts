@@ -33,6 +33,7 @@ export const navBarConfig: NavBarConfig = {
 					url: "https://blog.csdn.net/2606_96763730",
 					external: true,
 					icon: "simple-icons:csdn",
+                                },
                                 {
                                         name: "粉丝墙",
                                         url: "https://hoshinohb.cc.cd/",
