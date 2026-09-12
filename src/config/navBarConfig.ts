@@ -34,7 +34,7 @@ export const navBarConfig: NavBarConfig = {
 					external: true,
 					icon: "simple-icons:csdn",
                                 {
-                                        name: "粉丝墙"
+                                        name: "粉丝墙",
                                         url: "https://hoshinohb.cc.cd/",
                                         external: true,
                                         icon: "material-symbols:group",
