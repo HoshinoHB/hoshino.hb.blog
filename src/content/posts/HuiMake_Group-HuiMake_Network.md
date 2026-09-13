@@ -2,7 +2,7 @@
 title: 会做集团-会做网络
 published: 2026-09-12
 description: 由 HoshinoHB 编写的虚构企业介绍
-tags: ["HoshinoHB", "会做集团"]
+tags: ["HoshinoHB", "会做集团", "故事"]
 category: 会做集团
 draft: false
 pinned: false

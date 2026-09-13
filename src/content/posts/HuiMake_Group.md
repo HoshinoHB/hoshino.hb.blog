@@ -2,8 +2,8 @@
 title: 会做集团企业介绍
 published: 2026-09-06
 description: 由 HoshinoHB 编写的虚构企业介绍
-tags: ["HoshinoHB", "会做集团"]
-category: 介绍
+tags: ["HoshinoHB", "会做集团", "故事"]
+category: 会做集团
 draft: false
 pinned: false
 lang: zh-CN
