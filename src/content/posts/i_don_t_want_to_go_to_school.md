@@ -1,7 +1,12 @@
 ---
-kardleaf_id: kl_1a0aa9bf837_d0eef74a
-created: 2026-09-16T22:25:43+08:00
-updated: 2026-09-16T22:27:27+08:00
+title: 真不想上学！
+published: 2026-09-16
+description: 又体训又抢不到饭都
+tags: ["HoshinoHB", "日常", "故事"]
+category: 日常
+draft: false
+pinned: false
+lang: zh-CN
 ---
 
 # 起因
