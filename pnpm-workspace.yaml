@@ -2,7 +2,30 @@ allowBuilds:
   esbuild: true
 
 minimumReleaseAgeExclude:
+  - micromark@4.0.3
   - micromark-util-types@2.0.3
+  - micromark-util-character@2.1.1
+  - micromark-util-symbol@2.0.1
+  - micromark-util-combine-extensions@2.0.1
+  - micromark-util-chunked@2.0.1
+  - micromark-util-subtokenize@2.1.0
+  - micromark-util-resolve-all@2.0.1
+  - micromark-util-encode@2.0.1
+  - micromark-util-normalize-identifier@2.0.1
+  - micromark-util-sanitize-uri@2.0.1
+  - micromark-util-decode-numeric-character-reference@2.0.2
+  - micromark-util-edit-map@1.0.0
 
 overrides:
+  micromark: 4.0.3
   micromark-util-types: 2.0.3
+  micromark-util-character: 2.1.1
+  micromark-util-symbol: 2.0.1
+  micromark-util-combine-extensions: 2.0.1
+  micromark-util-chunked: 2.0.1
+  micromark-util-subtokenize: 2.1.0
+  micromark-util-resolve-all: 2.0.1
+  micromark-util-encode: 2.0.1
+  micromark-util-normalize-identifier: 2.0.1
+  micromark-util-sanitize-uri: 2.0.1
+  micromark-util-decode-numeric-character-reference: 2.0.2
