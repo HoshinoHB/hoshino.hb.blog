@@ -24,5 +24,4 @@
 
 邮箱：mchb9742@outlook.com
 
-::github{repo="HoshinoHB/hoshino.hb.blog"}
-
+[本站仓库](https://github.com/HoshinoHB/hoshino.hb.blog)
