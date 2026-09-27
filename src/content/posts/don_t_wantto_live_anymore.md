@@ -2,7 +2,7 @@
 title: 像这样的日子还要持续多久啊？！
 published: 2026-09-18
 description: 我真的够累了，越来越不想活……
-tags: ["HoshinoHB", ”生活”, "随笔", "故事"]
+tags: ["HoshinoHB", "生活", "随笔", "故事"]
 category: 随笔
 draft: false
 pinned: false
