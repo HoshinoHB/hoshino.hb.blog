@@ -19,14 +19,14 @@ lang: zh-CN
  
 # 代理工具的选择
 ## 📱手机
-- 我用的是 (NekoBox)[https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/tag/1.4.2]，是安卓的机场代理工具，是sing-box的精神续作，还有别的类似工具，可以在GitHub或搜索引擎、视频平台搜索。
+- 我用的是 [NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/tag/1.4.2)，是安卓的机场代理工具，是sing-box的精神续作，还有别的类似工具，可以在GitHub或搜索引擎、视频平台搜索。
 ## 🖥️电脑
-- 电脑可以用(V2ray)[https://github.com/2dust/v2rayN/releases/tag/7.25.4]和安卓版大差不差，只要是通用订阅都可以导入使用。
+- 电脑可以用 [V2ray](https://github.com/2dust/v2rayN/releases/tag/7.25.4) 和安卓版大差不差，只要是通用订阅都可以导入使用。
  
 # 🪜购买订阅
 > 注意：先确认你要的是哪种类型，代理有双ISP、原生IP、IDC机房IP、住宅IP、专线IP、静态住宅IP、动态代理IP等。
 - 我推荐：
-   1.(良心云)[https://xn--9kqz23b19z.com/#/register?code=3KKKDlwL]
+  1.[良心云](https://xn--9kqz23b19z.com/#/register?code=3KKKDlwL)
   推荐理由：
   - 2元起。
   - 多个国家节点。
@@ -38,7 +38,7 @@ lang: zh-CN
   - 最多支持20台设备使用。
   - 支持支付宝、微信、银联付款。
  
-  2.(一分机场)[https://xn--4gqx1hgtfdmt.com/#/register?code=cfUvfhoR]
+  2.[一分机场](https://xn--4gqx1hgtfdmt.com/#/register?code=cfUvfhoR)
   推荐理由：
   - 2元起步。
   - 良心云的对家。
@@ -50,7 +50,7 @@ lang: zh-CN
   - 最多注册5台设备使用（2元份）。
   - 支持微信、支付宝、银联、中国银行卡、USDT支付。
  
-  3.(三毛机场)[https://b.smjcgw.com/#/register?code=FfavtkK5]
+  3.[三毛机场](https://b.smjcgw.com/#/register?code=FfavtkK5)
   推荐理由：
   - 2元起步。
   - 一个月限制20GB流量使用后限速。
