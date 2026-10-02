@@ -1,6 +1,6 @@
 ---
 title: 机场代理和VPN的区别与推荐方案
-published: 2026-10-2
+published: 2026-10-02
 description: 你知道什么是机场代理和VPN代理吗？
 tags: ["HoshinoHB", "机场", "VPN", "教程"]
 category: 教程
