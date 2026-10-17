@@ -4,7 +4,7 @@ published: 2026-09-10
 description: 小男娘如何打扮自己？？
 tags: ["HoshinoHB", "随笔", "男娘"]
 category: 随笔
-draft: false
+draft: true
 pinned: false
 lang: zh-CN
 ---
